@@ -81,7 +81,17 @@ Sou cientista de dados e engenheiro de IA em Curitiba, com mais de 2 anos de exp
 
 ### Formação
 
-**Tecnólogo em Inteligência Artificial Aplicada** pela PUCPR (2024 a 2026), com média 9,27 e Menção Honrosa. Certificados em Generative AI Engineering e Data Science pela IBM e em Data Analytics pelo Google.
+**Tecnólogo em Inteligência Artificial Aplicada** pela PUCPR (2024 a 2026), com média 9,27 e Menção Honrosa.
+
+**Certificados**
+
+| Instituição | Certificado | Ano |
+|---|---|---|
+| IBM | Generative AI Engineering e Generative AI Engineering with LLMs | 2026 |
+| Kaggle | Computer Vision e Intermediate Machine Learning | 2026 |
+| DeepLearning.AI | Supervised ML: Regression and Classification | 2025 |
+| IBM | Data Science Professional e Applied Data Science | 2024 |
+| Google | Data Analytics | 2023 |
 
 ---
 
