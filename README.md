@@ -9,7 +9,7 @@
   <a href="https://yurishiroiva.github.io/assets/cv/Yuri_Shiroiva_Curriculo.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-161616?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE0IDJINmEyIDIgMCAwIDAtMiAydjE2YTIgMiAwIDAgMCAyIDJoMTJhMiAyIDAgMCAwIDItMlY4bC02LTZabS0xIDEuNUwxOC41IDlIMTNWMy41Wk04IDEzaDh2MS44SDhWMTNabTAgMy42aDh2MS44SDh2LTEuOFoiLz48L3N2Zz4%3D" alt="Currículo"></a>
 </p>
 
-Sou cientista de dados e engenheiro de IA em Curitiba, com mais de 2 anos de experiência. Na **IoTag**, cuido do pipeline de dados e da parte de IA de uma plataforma que recebe a telemetria de máquinas agrícolas. Fora do trabalho, pesquiso deep learning com imagens de satélite. O que mais me motiva é ver um modelo sair do notebook e ser usado por alguém.
+Sou cientista de dados e engenheiro de IA em Curitiba, com mais de 3 anos de experiência. Na **IoTag**, cuido do pipeline de dados e da parte de IA de uma plataforma que recebe a telemetria de máquinas agrícolas. Fora do trabalho, pesquiso deep learning com imagens de satélite. Sou curioso e adoro aprender coisas novas: quase todo projeto meu começou com a vontade de entender algo que eu ainda não sabia fazer.
 
 ### No dia a dia
 
