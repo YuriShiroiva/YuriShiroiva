@@ -13,8 +13,8 @@ Sou cientista de dados e engenheiro de IA em Curitiba, com mais de 3 anos de exp
 
 ### No dia a dia
 
-- **LLMs e agentes em produção:** diagnóstico de máquinas com o Claude na Vertex AI, com resposta estruturada e validada por schema, e agentes que usam ferramentas via MCP.
-- **Pipelines de telemetria:** dados brutos de CAN e ISOBUS viram datasets organizados, mapas de cobertura em GeoJSON e arquivos ISOXML.
+- **LLMs e agentes em produção:** um recurso de diagnóstico com o Claude na Vertex AI que levou a análise de falhas de 2 semanas para 5 dias, e um sistema multiagente com servidores MCP que cortou pela metade o tempo para decifrar mensagens CAN, com mais de 20 sinais já em produção.
+- **Pipelines de telemetria:** dados brutos de CAN, ISOBUS e J1939 viram datasets, mapas de cobertura em GeoJSON e arquivos ISOXML gerados automaticamente, para mais de 10 marcas de máquinas.
 - **Machine learning e séries temporais:** modelos com validação cruzada e métricas que fazem sentido para o problema.
 - **Visão computacional:** segmentação e classificação com PyTorch e visão clássica com OpenCV, de imagens de satélite a peças industriais.
 
